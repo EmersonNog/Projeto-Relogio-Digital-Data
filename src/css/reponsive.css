@@ -1,0 +1,25 @@
+@media (max-width: 620px) {
+    .display {
+        width: 340px;
+        height: 100px;
+        line-height: 100px;
+        text-align: center;
+        font-size: 80px;
+    }
+
+    .sub-display {
+        width: 100px;
+        height: 30px;
+        text-align: center;
+        font-size: 10px;
+        line-height: 30px;
+        border: 2px solid;
+        margin-right: 240px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+
+    footer {
+        font-size: 13px;
+    }
+}
